@@ -75,4 +75,12 @@ python -m manim example_scenes.py UpdatersExample -pl
 
 通过命令行里执行的结果，可以看到制作的视频都保存在了media\videos\example_scenes 文件夹下，因为这里使用的都是-pl，所以都在 \480p15 子文件夹里。
 
-接下来就可以进入正式实践了，更多内容持续更新。。。
+## 基础示例之AnimationsWithManim
+
+接下来就可以进入正式实践了，例子以[Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)的程序为主，
+更多视频介绍可以参考：[Manim教程合集](https://www.bilibili.com/video/BV1W4411Z7Zt?from=search&seid=5908821040753595740)。
+
+下载 AnimationsWithManim 的代码，这里就不git clone了，直接下载zip文件，并解压。在本项目根目录下新建文件夹：from_awm，
+然后把用的到的AnimationsWithManim的文件放入from_awm文件夹中，我这里已经放好了，就不一一说了。
+
+更多内容详见from_awm 文件夹下的例子。
